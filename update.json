@@ -1,9 +1,9 @@
 {
-  "enabled": false,
-  "latestVersion": "1.0.0",
-  "versionCode": 100,
-  "apkUrl": "",
-  "title": "",
-  "message": "",
+  "enabled": true,
+  "latestVersion": "2.0.1",
+  "versionCode": 201,
+  "apkUrl": "https://nwrhzmanfwubneyqxtfw.supabase.co/storage/v1/object/public/music/flutter_1794745287338.apk",
+  "title": "update nih",
+  "message": "gtauuu",
   "changes": []
 }
